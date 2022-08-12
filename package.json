@@ -1,0 +1,21 @@
+{
+  "name": "coris-cine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon app.js"
+  },
+  "kewords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "knex": "^2.2.0",
+    "koa": "^2.13.4",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
